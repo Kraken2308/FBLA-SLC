@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
+  - Background
+  - Midground
+  - Tilemaps
   - Player
-  - 
-  - 
-  - 
-  - 
+  - Foreground
   - 
   - 
   - 
@@ -41,12 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1430835673
-    locked: 0
-  - name: Playground
-    uniqueID: 1729152747
-    locked: 0
   - name: Background
     uniqueID: 1998696923
+    locked: 0
+  - name: Midground
+    uniqueID: 2416388601
+    locked: 0
+  - name: Gametiles
+    uniqueID: 860410003
+    locked: 0
+  - name: Foreground
+    uniqueID: 1729152747
+    locked: 0
+  - name: Player
+    uniqueID: 1430835673
     locked: 0
