@@ -15,10 +15,10 @@ TagManager:
   - 
   - Background
   - Midground
-  - Tilemaps
-  - Player
+  - Props
+  - Platforms
   - Foreground
-  - 
+  - Player
   - 
   - 
   - 
